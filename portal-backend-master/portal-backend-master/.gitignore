@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+#ignore below file, it's just for use of Chirag Makwana and will not affect the code later.
+helper/Chirag.js
+
+
